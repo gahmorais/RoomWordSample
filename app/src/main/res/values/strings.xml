@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomWordSample</string>
+    <string name="add_word">Adicionar palavra</string>
+    <string name="hint_word">Palavra...</string>
+    <string name="button_save">Salvar</string>
+    <string name="empty_not_saved">Palavra não foi salva porque está vazia</string>
+</resources>
